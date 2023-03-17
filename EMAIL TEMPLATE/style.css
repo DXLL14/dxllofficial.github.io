@@ -1,0 +1,515 @@
+/*
+	@name EMAIL TEMPLATE
+*/
+/*  */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/*  */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/*  */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1107px; width: 1107px; height: 2892px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#EMAIL_TEMPLATE {
+	top: 0px;
+	left: 0px;
+	width: 1107px;
+	height: 2892px;
+	background:rgba(203,178,178,255);
+}
+
+
+#path_1 {
+	top: -1349.8934936523px !important;
+	position: absolute !important;
+	left: -746.85180664062px;
+	width: 2305.9533691406px;
+	height: 5206.1391601562px;
+	background:url(skins/path_1.png);
+	background-size:cover;
+}
+
+
+#line_1 {
+	top: 218.5px !important;
+	position: absolute !important;
+	left: 9.4981079101562px;
+	width: 1088.0036621094px;
+	height: 23px;
+	background:url(skins/line_1.png);
+	background-size:cover;
+}
+
+
+#walk_this_way_to_find_the_perfect_pair_ {
+	top: 13px;
+	left: 29px;
+	width: 660px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 36px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_1 {
+	top: 121px;
+	left: 20px;
+	width: 407px;
+	height: 84px;
+	-ms-border-radius: 42px;
+	-o-border-radius: 42px;
+	-moz-border-radius: 42px;
+	-webkit-border-radius: 42px;
+	border-radius: 42px;
+	-ms-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-o-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-webkit-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-moz-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	background:rgba(19,89,9,255);
+}
+
+
+#rectangle_8 {
+	top: 1682px;
+	left: 339px;
+	width: 472px;
+	height: 137px;
+	-ms-border-radius: 44px;
+	-o-border-radius: 44px;
+	-moz-border-radius: 44px;
+	-webkit-border-radius: 44px;
+	border-radius: 44px;
+	-ms-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-o-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-webkit-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-moz-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	background:rgba(19,89,9,255);
+}
+
+
+#shoe_topia {
+	top: 116px;
+	left: 65px;
+	width: 340px;
+	height: 97.5px;
+	overflow: hidden;
+	font-family: Symbol;
+	font-size: 51px;
+	text-align: left;
+	color:#fff6f6;
+}
+
+
+#shoe_topia_ek1 {
+	top: 178px;
+	left: 167px;
+	width: 119px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2 {
+	top: 163px;
+	left: 520px;
+	width: 131px;
+	height: 58px;
+	-ms-border-radius: 29px;
+	-o-border-radius: 29px;
+	-moz-border-radius: 29px;
+	-webkit-border-radius: 29px;
+	border-radius: 29px;
+	background:rgba(81,118,76,255);
+}
+
+
+#rectangle_3 {
+	top: 163px;
+	left: 666px;
+	width: 131px;
+	height: 58px;
+	-ms-border-radius: 29px;
+	-o-border-radius: 29px;
+	-moz-border-radius: 29px;
+	-webkit-border-radius: 29px;
+	border-radius: 29px;
+	background:rgba(81,118,76,255);
+}
+
+
+#rectangle_4 {
+	top: 163px;
+	left: 958px;
+	width: 131px;
+	height: 58px;
+	-ms-border-radius: 29px;
+	-o-border-radius: 29px;
+	-moz-border-radius: 29px;
+	-webkit-border-radius: 29px;
+	border-radius: 29px;
+	background:rgba(81,118,76,255);
+}
+
+
+#rectangle_5 {
+	top: 163px;
+	left: 812px;
+	width: 131px;
+	height: 58px;
+	-ms-border-radius: 29px;
+	-o-border-radius: 29px;
+	-moz-border-radius: 29px;
+	-webkit-border-radius: 29px;
+	border-radius: 29px;
+	background:rgba(81,118,76,255);
+}
+
+
+#new {
+	top: 181px;
+	left: 565px;
+	width: 56px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#green {
+	top: 181px;
+	left: 703px;
+	width: 72px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#black {
+	top: 180px;
+	left: 849px;
+	width: 71px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#white {
+	top: 181px;
+	left: 995px;
+	width: 72px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#logo {
+	top: 13px !important;
+	position: absolute !important;
+	left: 958px;
+	width: 131px;
+	height: 99px;
+	background:url(skins/logo.png);
+	background-size:cover;
+}
+
+
+#ellipsis {
+	top: 25px !important;
+	position: absolute !important;
+	left: 849px;
+	width: 75px;
+	height: 75px;
+	background:url(skins/ellipsis.png);
+	background-size:cover;
+}
+
+
+#instagram {
+	top: 291px !important;
+	position: absolute !important;
+	left: 456px;
+	width: 611px;
+	height: 611px;
+	background:url(skins/instagram.png);
+	background-size:cover;
+}
+
+
+#shoe2 {
+	top: 985px !important;
+	position: absolute !important;
+	left: 36px;
+	width: 586px;
+	height: 643px;
+	background:url(skins/shoe2.png);
+	background-size:cover;
+}
+
+
+#rectangle_6 {
+	top: 718px;
+	left: 74px;
+	width: 265px;
+	height: 58px;
+	-ms-border-radius: 29px;
+	-o-border-radius: 29px;
+	-moz-border-radius: 29px;
+	-webkit-border-radius: 29px;
+	border-radius: 29px;
+	background:rgba(81,118,76,255);
+}
+
+
+#rectangle_7 {
+	top: 1554px;
+	left: 688px;
+	width: 265px;
+	height: 58px;
+	-ms-border-radius: 29px;
+	-o-border-radius: 29px;
+	-moz-border-radius: 29px;
+	-webkit-border-radius: 29px;
+	border-radius: 29px;
+	background:rgba(81,118,76,255);
+}
+
+
+#buy_now_ {
+	top: 728px;
+	left: 132px;
+	width: 169px;
+	height: 58.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 29px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#step_into_the_future_with_our__sleek_white_sneakers__the_lightweight_design_and_metallic_accents_give__them_a_modern_edge__available_in__sizes_us_5_13_with_true_to_fit_sizing_and_a_comfortable_medium_width___the_high_quality_rubber_sole__provides_excellent {
+	top: 365px;
+	left: 19px;
+	width: 438px;
+	height: 305px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#step_up_your_shoe_game_with__our_versatile_grey_sneakers___the_classic__monochromatic__design_pairs_easily_with_any__outfit__available_in_sizes_us__5_13_with_true_to_fit_sizing__and_a_comfortable_medium_width__soft__breathable_fabric_and_a_high_quality_rub {
+	top: 1041px;
+	left: 637px;
+	width: 492px;
+	height: 507.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 33px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#buy_now__ek1 {
+	top: 1564px;
+	left: 746px;
+	width: 169px;
+	height: 58.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 29px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#shoe3 {
+	top: 1873px !important;
+	position: absolute !important;
+	left: 36px;
+	width: 498px;
+	height: 643px;
+	background:url(skins/shoe3.png);
+	background-size:cover;
+}
+
+
+#shoe4 {
+	top: 1873px !important;
+	position: absolute !important;
+	left: 572px;
+	width: 498px;
+	height: 643px;
+	background:url(skins/shoe4.png);
+	background-size:cover;
+}
+
+
+#new_shoes_coming_up {
+	top: 1727px;
+	left: 361px;
+	width: 446px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 36px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_9 {
+	top: 2558px;
+	left: 356px;
+	width: 434px;
+	height: 112px;
+	-ms-border-radius: 44px;
+	-o-border-radius: 44px;
+	-moz-border-radius: 44px;
+	-webkit-border-radius: 44px;
+	border-radius: 44px;
+	-ms-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-o-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-webkit-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	-moz-box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	box-shadow:0px 10px 20px 1px rgba(19,89,9,2.55);
+	background:rgba(19,89,9,255);
+}
+
+
+#shop_now_ {
+	top: 2590px;
+	left: 469px;
+	width: 235px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 36px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#icons8_facebook_96 {
+	top: 2776px !important;
+	position: absolute !important;
+	left: 641px;
+	width: 81px;
+	height: 82px;
+	background:url(skins/icons8_facebook_96.png);
+	background-size:cover;
+}
+
+
+#icons8_instagram_200 {
+	top: 2776px !important;
+	position: absolute !important;
+	left: 740px;
+	width: 81px;
+	height: 82px;
+	background:url(skins/icons8_instagram_200.png);
+	background-size:cover;
+}
+
+
+#icons8_twitter_circled_80 {
+	top: 2786px !important;
+	position: absolute !important;
+	left: 850px;
+	width: 68px;
+	height: 62px;
+	background:url(skins/icons8_twitter_circled_80.png);
+	background-size:cover;
+}
+
+
+#icons8_google_maps_old_96 {
+	top: 2782px !important;
+	position: absolute !important;
+	left: 941px;
+	width: 78px;
+	height: 76px;
+	background:url(skins/icons8_google_maps_old_96.png);
+	background-size:cover;
+}
+
+
+#contact_us_ {
+	top: 2802px;
+	left: 444px;
+	width: 198px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#privacy____terms____advertising____ad_choices____cookies_____more______2023___rendell_german_bsit_1_blk_1 {
+	top: 2810px;
+	left: 5px;
+	width: 422px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+@media (min-width: 320px) and (max-width: 601px){
+	body {
+		width: 100%;
+		overflow-x: scroll;
+	}
+}
